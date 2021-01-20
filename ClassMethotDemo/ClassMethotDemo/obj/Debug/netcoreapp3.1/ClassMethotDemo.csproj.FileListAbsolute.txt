@@ -1,0 +1,13 @@
+C:\Users\ozlem\source\repos\ozlem-gk\deneme\ClassMethotDemo\ClassMethotDemo\bin\Debug\netcoreapp3.1\ClassMethotDemo.exe
+C:\Users\ozlem\source\repos\ozlem-gk\deneme\ClassMethotDemo\ClassMethotDemo\bin\Debug\netcoreapp3.1\ClassMethotDemo.deps.json
+C:\Users\ozlem\source\repos\ozlem-gk\deneme\ClassMethotDemo\ClassMethotDemo\bin\Debug\netcoreapp3.1\ClassMethotDemo.runtimeconfig.json
+C:\Users\ozlem\source\repos\ozlem-gk\deneme\ClassMethotDemo\ClassMethotDemo\bin\Debug\netcoreapp3.1\ClassMethotDemo.runtimeconfig.dev.json
+C:\Users\ozlem\source\repos\ozlem-gk\deneme\ClassMethotDemo\ClassMethotDemo\bin\Debug\netcoreapp3.1\ClassMethotDemo.dll
+C:\Users\ozlem\source\repos\ozlem-gk\deneme\ClassMethotDemo\ClassMethotDemo\bin\Debug\netcoreapp3.1\ClassMethotDemo.pdb
+C:\Users\ozlem\source\repos\ozlem-gk\deneme\ClassMethotDemo\ClassMethotDemo\obj\Debug\netcoreapp3.1\ClassMethotDemo.csprojAssemblyReference.cache
+C:\Users\ozlem\source\repos\ozlem-gk\deneme\ClassMethotDemo\ClassMethotDemo\obj\Debug\netcoreapp3.1\ClassMethotDemo.AssemblyInfoInputs.cache
+C:\Users\ozlem\source\repos\ozlem-gk\deneme\ClassMethotDemo\ClassMethotDemo\obj\Debug\netcoreapp3.1\ClassMethotDemo.AssemblyInfo.cs
+C:\Users\ozlem\source\repos\ozlem-gk\deneme\ClassMethotDemo\ClassMethotDemo\obj\Debug\netcoreapp3.1\ClassMethotDemo.csproj.CoreCompileInputs.cache
+C:\Users\ozlem\source\repos\ozlem-gk\deneme\ClassMethotDemo\ClassMethotDemo\obj\Debug\netcoreapp3.1\ClassMethotDemo.dll
+C:\Users\ozlem\source\repos\ozlem-gk\deneme\ClassMethotDemo\ClassMethotDemo\obj\Debug\netcoreapp3.1\ClassMethotDemo.pdb
+C:\Users\ozlem\source\repos\ozlem-gk\deneme\ClassMethotDemo\ClassMethotDemo\obj\Debug\netcoreapp3.1\ClassMethotDemo.genruntimeconfig.cache
